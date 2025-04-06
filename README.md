@@ -16,17 +16,17 @@
 
 ## 🚀 Level 1
 
-|  Learning   |       Project       |            Period            |                             Repository                              |                           Pull Request & Review                           |
-|:-----------:|:-------------------:|:----------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
-| 온보딩, 단위 테스트 |     로또 <br> 1단계     | `2025-02-12` ~ `2025-02-16`  |   [repository 1](https://github.com/dye0p/java-lotto/tree/step1)    |   [pull request 1](https://github.com/woowacourse/java-lotto/pull/557)    |
-| 온보딩, 단위 테스트 |     로또 <br> 2단계     | `2025-02-16` ~ `2025-02-17`  |   [repository 2](https://github.com/dye0p/java-lotto/tree/step2)    |   [pull request 2](https://github.com/woowacourse/java-lotto/pull/660)    |
-|     TDD     |     출석 <br> 1단계     | `2025-02-118` ~ `2025-02-26` | [repository 1](https://github.com/dye0p/java-attendance/tree/step1) | [pull request 1](https://github.com/woowacourse/java-attendance/pull/71)  |
-|     TDD     |     출석 <br> 2단계     | `2025-02-26` ~ `2025-03-05`  | [repository 2](https://github.com/dye0p/java-attendance/tree/step2) | [pull request 2](https://github.com/woowacourse/java-attendance/pull/164) |
-| Clean Code  |    블랙잭 <br> 1단계     | `2025-03-04` ~ `2025-03-12`  | [repository 1](https://github.com/dye0p/java-blackjack/tree/step1)  | [pull request 1](https://github.com/woowacourse/java-blackjack/pull/836)  |
-| Clean Code  |    블랙잭 <br> 2단계     | `2025-03-12` ~ `2025-03-19`  | [repository 2](https://github.com/dye0p/java-blackjack/tree/step2)  | [pull request 2](https://github.com/woowacourse/java-blackjack/pull/901)  |
-|   OOP, DB   | 장기 <br> 1.1 ~ 1.2단계 | `2025-03-18` ~ `2025-03-29`  |   [repository 1](https://github.com/dye0p/java-janggi/tree/step1)   |   [pull request 1](https://github.com/woowacourse/java-janggi/pull/23)    |
-|   OOP, DB   | 장기 <br> 2.1 ~ 2.2단계 | `2025-03-29` ~ `2025-04-04`  |   [repository 2](https://github.com/dye0p/java-janggi/tree/step2)   |   [pull request 2](https://github.com/woowacourse/java-janggi/pull/158)   |
-|    공통 교육    |     위키 페이지 만들기      | `2025-03-26` ~ `2025-03-27`  |    [repository](https://github.com/dye0p/web-wiki-introduction)     |       [자기소개 위키 페이지](https://dye0p.github.io/web-wiki-introduction/)       |                       
+|  Learning   |       Project       |           Period            |                             Repository                              |                           Pull Request & Review                           |
+|:-----------:|:-------------------:|:---------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| 온보딩, 단위 테스트 |     로또 <br> 1단계     | `2025-02-12` ~ `2025-02-16` |   [repository 1](https://github.com/dye0p/java-lotto/tree/step1)    |   [pull request 1](https://github.com/woowacourse/java-lotto/pull/557)    |
+| 온보딩, 단위 테스트 |     로또 <br> 2단계     | `2025-02-16` ~ `2025-02-17` |   [repository 2](https://github.com/dye0p/java-lotto/tree/step2)    |   [pull request 2](https://github.com/woowacourse/java-lotto/pull/660)    |
+|     TDD     |     출석 <br> 1단계     | `2025-02-18` ~ `2025-02-26` | [repository 1](https://github.com/dye0p/java-attendance/tree/step1) | [pull request 1](https://github.com/woowacourse/java-attendance/pull/71)  |
+|     TDD     |     출석 <br> 2단계     | `2025-02-26` ~ `2025-03-05` | [repository 2](https://github.com/dye0p/java-attendance/tree/step2) | [pull request 2](https://github.com/woowacourse/java-attendance/pull/164) |
+| Clean Code  |    블랙잭 <br> 1단계     | `2025-03-04` ~ `2025-03-12` | [repository 1](https://github.com/dye0p/java-blackjack/tree/step1)  | [pull request 1](https://github.com/woowacourse/java-blackjack/pull/836)  |
+| Clean Code  |    블랙잭 <br> 2단계     | `2025-03-12` ~ `2025-03-19` | [repository 2](https://github.com/dye0p/java-blackjack/tree/step2)  | [pull request 2](https://github.com/woowacourse/java-blackjack/pull/901)  |
+|   OOP, DB   | 장기 <br> 1.1 ~ 1.2단계 | `2025-03-18` ~ `2025-03-29` |   [repository 1](https://github.com/dye0p/java-janggi/tree/step1)   |   [pull request 1](https://github.com/woowacourse/java-janggi/pull/23)    |
+|   OOP, DB   | 장기 <br> 2.1 ~ 2.2단계 | `2025-03-29` ~ `2025-04-04` |   [repository 2](https://github.com/dye0p/java-janggi/tree/step2)   |   [pull request 2](https://github.com/woowacourse/java-janggi/pull/158)   |
+|    공통 교육    |     위키 페이지 만들기      | `2025-03-26` ~ `2025-03-27` |    [repository](https://github.com/dye0p/web-wiki-introduction)     |       [자기소개 위키 페이지](https://dye0p.github.io/web-wiki-introduction/)       |                       
 
 > ✍️ [글쓰기 미션 - 레벨1 유연성 강화 스터디 회고](https://github.com/dye0p/woowa-writing/blob/main/Level1.md)
 
