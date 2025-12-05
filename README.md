@@ -56,18 +56,41 @@
 |:--------:|:----------------------:|:-----------------:|:------------------------------------------------------------------:|:---------------------------------------------:|
 |  팀 프로젝트  | 온라인 피트니스 멘토링 서비스 - 핏토링 | `2025-07` ~ `진행중` | [repository](https://github.com/woowacourse-teams/2025-Fit-toring) | [서비스 바로가기](https://www.fittoring.com/landing) |
 
+> ✍️ [글쓰기 미션 - 팀 프로젝트, 우리만의 후기집](https://github.com/woowacourse/woowa-writing/blob/e363a7fb22c99cf533699506587b5a437443bebc/level3.md)
+
+<br/>
+
+## 🚀 Level 4
+
+|    Learning     |                Project                 |                          Repository                           |                        Pull Request & Review                         |
+|:---------------:|:--------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------:|
+|   Tomcat 구현하기   |           1단계 - HTTP 서버 구현하기           | [repository 1](https://github.com/dye0p/java-http/tree/step1) | [pull request 1](https://github.com/woowacourse/java-http/pull/829)  |
+|       ""        |             2단계 - 로그인 구현하기             | [repository 2](https://github.com/dye0p/java-http/tree/step2) | [pull request 2](https://github.com/woowacourse/java-http/pull/922)  |
+|       ""        |               3단계 - 리팩터링               | [repository 3](https://github.com/dye0p/java-http/tree/step3) | [pull request 3](https://github.com/woowacourse/java-http/pull/1036) |
+|       ""        |             4단계 - 동시성 확장하기             | [repository 4](https://github.com/dye0p/java-http/tree/step4) | [pull request 4](https://github.com/woowacourse/java-http/pull/1080) |
+|    @MVC 구현하기    |         1단계 - @MVC 프레임워크 구현하기          | [repository 1](https://github.com/dye0p/java-mvc/tree/step1)  |  [pull request 1](https://github.com/woowacourse/java-mvc/pull/953)  |
+|       ""        |            2단계 - 점진적인 리팩터링             | [repository 2](https://github.com/dye0p/java-mvc/tree/step2)  | [pull request 2](https://github.com/woowacourse/java-mvc/pull/1015)  |
+|       ""        |          3단계 - JSON View 구현하기          | [repository 3](https://github.com/dye0p/java-mvc/tree/step3)  | [pull request 3](https://github.com/woowacourse/java-mvc/pull/1093)  |
+| JDBC 라이브러리 구현하기 |         1단계 - JDBC 라이브러리 구현하기          | [repository 1](https://github.com/dye0p/java-jdbc/tree/step1) | [pull request 1](https://github.com/woowacourse/java-jdbc/pull/1126) |
+|       ""        |               2단계 - 리팩터링               | [repository 2](https://github.com/dye0p/java-jdbc/tree/step2) | [pull request 2](https://github.com/woowacourse/java-jdbc/pull/1202) |
+|       ""        |         3단계 - Transaction 적용하기         | [repository 3](https://github.com/dye0p/java-jdbc/tree/step3) | [pull request 3](https://github.com/woowacourse/java-jdbc/pull/1226) |
+|       ""        | 4단계 - Transaction synchronization 적용하기 | [repository 4](https://github.com/dye0p/java-jdbc/tree/step4) | [pull request 4](https://github.com/woowacourse/java-jdbc/pull/1251) |
+
+> ✍️ [테크니컬 라이팅 - Soft Delete를 적용하는 이유와 사례](https://medium.com/p/c3f096bfe243)
 >
-✍️ [글쓰기 미션 - 팀 프로젝트, 우리만의 후기집](https://github.com/woowacourse/woowa-writing/blob/e363a7fb22c99cf533699506587b5a437443bebc/level3.md)
+> 💁‍♂️ [테코톡 - Soft Delete](https://www.youtube.com/watch?v=o5byT9Ha5Tg&t=348s)
+
+<br/>
 
 ## 📚 Study
 
 > 우아한테크코스 내부에서 진행한 스터디
 
-|                             Project                              |           Period            | Repository |
-|:----------------------------------------------------------------:|:---------------------------:|:----------:|
-|                       Action Vim(Vim 스터디)                        | `2025-02-24` ~ `2025-03-31` |     -      |
-|                         영말쓰(영어 말하기 쓰터디)                          |  `2025-03-26` ~ `2025-06`   |     -      |
-| [리팩터링](https://product.kyobobook.co.kr/detail/S000001810241) 스터디 |  `2025-05-21` ~  `2025-06`  |     -      |
+|                             Project                              |           Period            | 
+|:----------------------------------------------------------------:|:---------------------------:|
+|                       Action Vim(Vim 스터디)                        | `2025-02-24` ~ `2025-03-31` |     
+|                         영말쓰(영어 말하기 쓰터디)                          |  `2025-03-26` ~ `2025-06`   |    
+| [리팩터링](https://product.kyobobook.co.kr/detail/S000001810241) 스터디 |  `2025-05-21` ~  `2025-06`  |   
 
 
 
