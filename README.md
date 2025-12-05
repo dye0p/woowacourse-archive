@@ -48,6 +48,17 @@
 
 > ✍️ [글쓰기 미션 - 레벨2까지 나의 성장 여정](https://github.com/woowacourse/woowa-writing/blob/dye0p/Level2.md)
 
+<br/>
+
+## 🚀 Level 3
+
+| Learning |        Project         |      Period       |                             Repository                             |                    Service                    |
+|:--------:|:----------------------:|:-----------------:|:------------------------------------------------------------------:|:---------------------------------------------:|
+|  팀 프로젝트  | 온라인 피트니스 멘토링 서비스 - 핏토링 | `2025-07` ~ `진행중` | [repository](https://github.com/woowacourse-teams/2025-Fit-toring) | [서비스 바로가기](https://www.fittoring.com/landing) |
+
+>
+✍️ [글쓰기 미션 - 팀 프로젝트, 우리만의 후기집](https://github.com/woowacourse/woowa-writing/blob/e363a7fb22c99cf533699506587b5a437443bebc/level3.md)
+
 ## 📚 Study
 
 > 우아한테크코스 내부에서 진행한 스터디
@@ -55,7 +66,8 @@
 |                             Project                              |           Period            | Repository |
 |:----------------------------------------------------------------:|:---------------------------:|:----------:|
 |                       Action Vim(Vim 스터디)                        | `2025-02-24` ~ `2025-03-31` |     -      |
-|                         영말쓰(영어 말하기 쓰터디)                          |       `2025-03-26` ~        |     -      |
-| [리팩터링](https://product.kyobobook.co.kr/detail/S000001810241) 스터디 |       `2025-05-21` ~        |     -      |
+|                         영말쓰(영어 말하기 쓰터디)                          |  `2025-03-26` ~ `2025-06`   |     -      |
+| [리팩터링](https://product.kyobobook.co.kr/detail/S000001810241) 스터디 |  `2025-05-21` ~  `2025-06`  |     -      |
+
 
 
